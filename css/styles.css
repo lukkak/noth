@@ -1,7 +1,9 @@
 body {
   background-color: #EFF5F5;
 }
-
+li {
+  font-size: 15px;
+}
 hr {
   border-style: none;
   border-top-style: dotted;
