@@ -1,0 +1,51 @@
+body {
+  background-color: #EFF5F5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #BCEAD5;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1, h3{
+  color: #4FA095;
+}
+
+ul{
+  line-height:150%;
+}
+
+img{
+  width: 200px;
+}
+
+img:hover{
+  width: 220px;
+}
+
+.sub {
+  background-color: #BAD1C2;
+  border-style: none;
+  border-bottom-style: outset;
+  width: 263px;
+  height: 30px;
+  font-size: 17px;
+  font-family: serif ;
+  cursor: pointer;
+}
+
+.sub:hover{
+  width: 267px;
+  height: 32px;
+  font-size: 18px;
+  background-color: #4FA095;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.txt{
+  background-color: #EEEEEE;
+  font-family:  cursive;
+}
